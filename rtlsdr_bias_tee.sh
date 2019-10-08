@@ -10,7 +10,7 @@
 #    https://discussions.flightaware.com/t/rtl-v3-bias-t-cant-enable/52831/3
 #
 # This script will not run unless 'dump1090-fa' or 'dump1090-mutability' is installed.
-# Confirmed to run on Raspbian Stretch-Lite & Raspbian Buster-Lite & PiAware SD Image (3.7.1).
+# Confirmed to run on Raspbian Stretch-Lite & Raspbian Buster-Lite & PiAware SD Image (3.7.1 & 3.7.2).
 # Nearly every command is checked for a successful execution to help isolate any possible failures.
 # Script credit:  https://github.com/mypiaware
 
